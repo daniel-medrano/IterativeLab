@@ -25,9 +25,6 @@ public class Main {
                     break;
                 case 4:
                     break;
-                default:
-                    System.out.println("\n" + "ERROR: Not in the range of options" + "\n");
-                    break;
             }
         }
     }
